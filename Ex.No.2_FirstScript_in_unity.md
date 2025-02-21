@@ -15,6 +15,7 @@
 9. Run the program
 10. Stop the program.
 ### Program 
+'''
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -32,6 +33,7 @@ public class FirstScript : MonoBehaviour
         
     }
 }
+'''
 ### Output:
 
 ![image](https://github.com/user-attachments/assets/1621abf8-4fb5-4322-b882-058aa0356b8b)
