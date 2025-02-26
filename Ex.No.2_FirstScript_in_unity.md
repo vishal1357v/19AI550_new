@@ -2,7 +2,7 @@
 ### DATE:                                                                            
 ### REGISTER NUMBER : 
 ### AIM: 
- To learn the basic scripting in Unity and print welcome message
+ To learn the basic scripting in Unity and print welcome message in Console window. 
 ### Procedure:
 1. Start the program
 2. Open the Unity hub and Create a new 3D project
@@ -36,7 +36,6 @@ public class FirstScript : MonoBehaviour
 ```
 ### Output:
 
-![image](https://github.com/user-attachments/assets/1621abf8-4fb5-4322-b882-058aa0356b8b)
 
 
 ### Result:
