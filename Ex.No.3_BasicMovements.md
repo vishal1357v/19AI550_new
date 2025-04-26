@@ -53,8 +53,11 @@ public class TransformOperations : MonoBehaviour
 ```
 ### Output:
 
+![games 3 l](https://github.com/user-attachments/assets/c7e5e326-cfec-4508-b586-1e00b99bc453)
 
 
+
+![game 3 ll](https://github.com/user-attachments/assets/1f36ec81-c38d-4a8b-a1fe-de997ed6cdd4)
 
 
 
